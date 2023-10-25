@@ -16,5 +16,5 @@ As a software developer, I bring a diverse skill set to the table:
 
 ## Get in Touch
 
-I'm always open to new opportunities, collaborations, or just a friendly chat about tech. If you'd like to discuss a project or have any questions, please don't hesitate to [reach out](mailto:avoscanemile@gmail.com). Let's work together to bring your ideas to life.
+I'm always open to new opportunities, collaborations, or just a friendly chat about tech. If you'd like to discuss a project or have any questions, please don't hesitate to contact me through my email: avoscanemile@gmail.com. Let's work together to bring your ideas to life.
 
