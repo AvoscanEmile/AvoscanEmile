@@ -1,20 +1,23 @@
 ## About Me
 
-Hello, I'm Emile Avoscan, a passionate and versatile software developer with expertise in HTML, CSS, JavaScript, Python, and SQL. I'm dedicated to creating dynamic and efficient web applications and databases. Whether it's crafting responsive and visually appealing front-end interfaces or designing robust and scalable back-end systems, I thrive on turning ideas into functional and user-friendly solutions.
+Hello, I'm Emile Avoscan — a multidisciplinary technologist specializing in software development, cloud engineering, and cybersecurity. With a strong foundation in full-stack web development, system administration, and infrastructure automation, I craft secure, scalable, and efficient solutions that bridge user needs and modern technology.
+
+My journey spans building a custom Linux environment tailored for performance and usability, mastering cloud platforms and infrastructure-as-code, to engaging deeply with cybersecurity principles and hands-on offensive security techniques. This diverse expertise empowers me to design end-to-end systems with robustness, automation, and security at their core.
 
 ## Technical Proficiencies
 
-As a software developer, I bring a diverse skill set to the table:
+* **Operating Systems & DevOps**: Expert in Linux systems administration and customization, infrastructure automation with Terraform, and cloud environments including AWS (certified Solutions Architect Associate).
 
-- **HTML/CSS**: I'm well-versed in creating elegant and responsive web interfaces. I ensure that every project is visually stunning and accessible on any device.
+* **Cloud & Infrastructure**: Skilled in designing, deploying, and managing scalable cloud architectures, with practical experience on real-world projects such as the Cloud Resume Project.
 
-- **JavaScript (JS)**: My JavaScript skills allow me to develop interactive and engaging front-end experiences. I'm proficient in working with modern JS libraries and frameworks.
+* **Cybersecurity**: Well-versed in security fundamentals, threat modeling, and penetration testing methodologies, complemented by formal training and hands-on challenges on platforms like TryHackMe.
 
-- **Python**: Python is my go-to language for back-end development. I build efficient and secure server-side applications using Python and its frameworks like Django or Flask.
+* **Software Development**: Proficient in front-end (HTML, CSS, JavaScript) and back-end (Python, SQL) development, capable of delivering responsive, secure, and maintainable applications.
 
-- **SQL**: Database management is my strong suit. I design and optimize SQL databases, ensuring data integrity and high performance.
+* **Automation & Scripting**: Strong background in scripting and automation for system management and deployment efficiency.
 
 ## Get in Touch
 
-I'm always open to new opportunities, collaborations, or just a friendly chat about tech. If you'd like to discuss a project or have any questions, please don't hesitate to contact me through my email: avoscanemile@gmail.com. Let's work together to bring your ideas to life.
+I’m always eager to connect with fellow technologists, explore new challenges, or collaborate on innovative projects. Feel free to reach out at [avoscanemile@gmail.com](mailto:avoscanemile@gmail.com).
+
 
