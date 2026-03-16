@@ -28,7 +28,7 @@ I don't aim to build software that just works; I aim to build software that is m
 
 * **Current**: **RHCSA** (RHEL 10)
 * **In-Progress**: **RHCE** (Ansible Automation), **CKA** (Kubernetes Administrator)
-* **Programs & Trajectories:** Alumnus of the WithYouWithMe Cyber & Tech Program. Autodidact RHCSA, having independently mastered the Red Hat ecosystem through rigorous self-study, local VM lab environments with qemu and virsh, and official documentation.
+* **Programs & Trajectories:** Alumnus of the WithYouWithMe Cyber & Tech Program. Autodidact RHCSA, having independently mastered the Red Hat ecosystem through rigorous self-study, local VM lab environments with the official Red Hat `Virtualization Host` group install, which uses `qemu` and `virsh`, and official documentation.
 
 ### Connect
 
