@@ -1,6 +1,6 @@
 # Emile Avoscan
 
-**Systems Architect | High-Assurance Software Engineer | RHCSA (RHEL 10)**
+**Infrastructure & Automation Engineer | RHCE in RHEL10 | Linux Systems, Ansible, Python & Rust | Industrial Edge & Low-Level API Governance**
 
 I specialize in the development of deterministic, production-hardened middleware and the governance of mission-critical infrastructure. With over half a decade of development experience, my work focuses on the intersection of **Formal Verification**, **Low-Level Systems Programming**, and **Industrial Edge IoT**.
 
