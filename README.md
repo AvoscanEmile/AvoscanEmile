@@ -1,6 +1,6 @@
 # Emile Avoscan
 
-**Infrastructure & Systems Engineer | RHCE (RHEL 10) | Linux, Ansible, Rust & Python | Industrial Edge Systems**
+## **Infrastructure & Systems Engineer | RHCE (RHEL 10) | Linux, Ansible, Rust & Python | Industrial Edge Systems**
 
 I design, automate, and troubleshoot systems where **correctness, predictability, and observability matter**.
 
