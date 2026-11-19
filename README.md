@@ -1,6 +1,6 @@
 # Emile Avoscan
 
-### **Infrastructure & Systems Engineer | RHCE (RHEL 10) | Linux, Ansible, Rust & Python | Industrial Edge Systems**
+### **Infrastructure & Systems Engineer | RHCE (RHEL 10) | AWS SAA | Linux, Ansible, Rust & Python | Industrial Edge Systems**
 
 I design, automate, and troubleshoot systems where **correctness, predictability, and observability matter**.
 
@@ -81,6 +81,7 @@ My related Linux security work includes exploring and configuring:
 
 - **Red Hat Certified Engineer (RHCE), RHEL 10** — [Verify credential](https://www.credly.com/badges/e9197ef6-f254-4de0-b3d6-54a3b3c5345f/public_url)
 - **Red Hat Certified System Administrator (RHCSA), RHEL 10** — [Verify credential](https://www.credly.com/badges/0007b5a1-8ed0-4987-848c-aeba50981482/public_url)
+- **AWS SAA** — [Verify credential](https://www.credly.com/badges/1a64bf11-e6f0-419f-8e95-5d74404c0cd1/public_url)
 
 **Currently studying:** AWS Certified Solutions Architect – Associate and HashiCorp Terraform Associate.
 
